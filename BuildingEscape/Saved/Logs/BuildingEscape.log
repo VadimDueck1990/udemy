@@ -1,0 +1,849 @@
+﻿Log file open, 02/20/20 18:51:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BuildingEscape
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.083768
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=vadimdueck -epicuserid=b90a1c26aa064ba7aa629a71b787d6c9 -epiclocale=de
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.02.20-17.51.05:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.20-17.51.05:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.02.20-17.51.05:087][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.02.20-17.51.05:095][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.20-17.51.05:095][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.20-17.51.05:096][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.20-17.51.05:096][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.20-17.51.05:096][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.20-17.51.05:099][  0]LogHAL: Display: Platform has ~ 32 GB [34073808896 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.20-17.51.05:099][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.20-17.51.05:099][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.20-17.51.05:099][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.20-17.51.05:100][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.02.20-17.51.05:100][  0]LogInit: Computer: DESKTOP-NV64KD0
+[2020.02.20-17.51.05:100][  0]LogInit: User: vdc
+[2020.02.20-17.51.05:100][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.20-17.51.05:100][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.20-17.51.05:101][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2020.02.20-17.51.05:101][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.20-17.51.05:101][  0]LogMemory: Process Physical Memory: 106.04 MB used, 106.04 MB peak
+[2020.02.20-17.51.05:101][  0]LogMemory: Process Virtual Memory: 94.18 MB used, 94.18 MB peak
+[2020.02.20-17.51.05:101][  0]LogMemory: Physical Memory: 10929.97 MB used,  21565.34 MB free, 32495.32 MB total
+[2020.02.20-17.51.05:101][  0]LogMemory: Virtual Memory: 4700.11 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2020.02.20-17.51.05:103][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.20-17.51.05:122][  0]LogInit: Using OS detected language (de-DE).
+[2020.02.20-17.51.05:122][  0]LogInit: Using OS detected locale (de-DE).
+[2020.02.20-17.51.05:123][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so the 'de' localization will be used.
+[2020.02.20-17.51.05:123][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2020.02.20-17.51.05:123][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2020.02.20-17.51.05:123][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2020.02.20-17.51.05:124][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2020.02.20-17.51.05:124][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2020.02.20-17.51.05:124][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2020.02.20-17.51.05:124][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2020.02.20-17.51.05:125][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.20-17.51.05:162][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.20-17.51.05:162][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.20-17.51.05:404][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.20-17.51.05:404][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.20-17.51.05:468][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.02.20-17.51.05:468][  0]LogD3D11RHI:       3964/0/16247 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.20-17.51.05:509][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.02.20-17.51.05:509][  0]LogD3D11RHI:       128/0/16247 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.20-17.51.05:512][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.20-17.51.05:512][  0]LogD3D11RHI:       0/0/16247 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.20-17.51.05:512][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.20-17.51.05:545][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.20-17.51.05:545][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.20-17.51.05:545][  0]LogWindows: EnumDisplayDevices:
+[2020.02.20-17.51.05:545][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.02.20-17.51.05:546][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.20-17.51.05:546][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2020.02.20-17.51.05:547][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.20-17.51.05:547][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.02.20-17.51.05:547][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.20-17.51.05:547][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.20-17.51.05:547][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2020.02.20-17.51.05:593][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.20-17.51.05:605][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.20-17.51.05:927][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.20-17.51.05:936][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.20-17.51.05:947][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.20-17.51.05:955][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.20-17.51.05:964][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.20-17.51.05:973][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.20-17.51.05:983][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.20-17.51.05:992][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.20-17.51.05:995][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.20-17.51.06:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.20-17.51.06:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.20-17.51.06:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.20-17.51.06:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.20-17.51.06:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.20-17.51.06:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.20-17.51.06:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.20-17.51.06:025][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.20-17.51.06:026][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.20-17.51.06:026][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.20-17.51.06:026][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.20-17.51.06:026][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.20-17.51.06:026][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.20-17.51.06:026][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.20-17.51.06:026][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.20-17.51.06:026][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.20-17.51.06:026][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.20-17.51.06:026][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.20-17.51.06:027][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.20-17.51.06:044][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.20-17.51.06:044][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.20-17.51.06:061][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.20-17.51.06:061][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.20-17.51.06:068][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.20-17.51.06:075][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.20-17.51.06:082][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.20-17.51.06:091][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.20-17.51.06:116][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.20-17.51.06:116][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.20-17.51.06:116][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.20-17.51.06:122][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.20-17.51.06:163][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/vdc/workspace/unreal/udemy/BuildingEscape/Intermediate/Shaders/WorkingDirectory/8772/).
+[2020.02.20-17.51.06:163][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vdc/AppData/Local/Temp/UnrealShaderWorkingDir/CC8BF4EE46B66358B3FBC28EBD2B5CE9/'.
+[2020.02.20-17.51.06:165][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.20-17.51.06:165][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.20-17.51.06:165][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.20-17.51.06:793][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.20-17.51.06:837][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/vdc/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.20-17.51.06:837][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vdc/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.20-17.51.06:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/vdc/workspace/unreal/udemy/BuildingEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.20-17.51.06:837][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.20-17.51.06:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/vdc/workspace/unreal/udemy/BuildingEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.20-17.51.06:837][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.20-17.51.06:847][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.20-17.51.06:848][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.02.20-17.51.06:850][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vdc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.20-17.51.06:850][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.20-17.51.06:850][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.20-17.51.06:871][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.20-17.51.06:873][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.20-17.51.06:874][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.20-17.51.06:931][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.02.20-17.51.07:179][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.20-17.51.07:228][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.20-17.51.07:228][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.20-17.51.07:228][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.20-17.51.07:228][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.20-17.51.07:228][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.20-17.51.07:328][  0]LogNetVersion: BuildingEscape 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1610626118)
+[2020.02.20-17.51.07:709][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.054861 seconds
+[2020.02.20-17.51.07:715][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.02.20-17.51.07:716][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.02.20-17.51.07:716][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.20-17.51.08:578][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.20-17.51.08:622][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.20-17.51.08:682][  0]SourceControl: Source control is disabled
+[2020.02.20-17.51.08:682][  0]SourceControl: Source control is disabled
+[2020.02.20-17.51.08:683][  0]SourceControl: Source control is disabled
+[2020.02.20-17.51.08:684][  0]SourceControl: Source control is disabled
+[2020.02.20-17.51.08:823][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.20-17.51.09:033][  0]LogOcInput: OculusInput pre-init called
+[2020.02.20-17.51.13:196][  0]LogEngine: Initializing Engine...
+[2020.02.20-17.51.13:196][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.20-17.51.13:197][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.20-17.51.13:379][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.20-17.51.13:388][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.20-17.51.13:452][  0]LogInit: XAudio2 using 'Kopfhörer (Realtek USB Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.02.20-17.51.13:544][  0]LogInit: FAudioDevice initialized.
+[2020.02.20-17.51.13:544][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.20-17.51.13:595][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/vdc/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.20-17.51.13:598][  0]LogInit: Texture streaming: Enabled
+[2020.02.20-17.51.13:615][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.20-17.51.13:615][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.20-17.51.13:619][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.20-17.51.13:636][  0]LogInit: Transaction tracking system initialized
+[2020.02.20-17.51.13:657][  0]BlueprintLog: New page: Editor Load
+[2020.02.20-17.51.13:735][  0]LocalizationService: Localization service is disabled
+[2020.02.20-17.51.13:994][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Content/' took 0.00s
+[2020.02.20-17.51.13:994][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.20-17.51.13:994][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.20-17.51.15:689][  0]SourceControl: Source control is disabled
+[2020.02.20-17.51.15:689][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.20-17.51.15:690][  0]LightingResults: New page: Lighting Build
+[2020.02.20-17.51.15:691][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-17.51.15:692][  0]MapCheck: New page: Map Check
+[2020.02.20-17.51.15:692][  0]LightingResults: New page: Lighting Build
+[2020.02.20-17.51.15:719][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.20-17.51.15:792][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.20-17.51.15:796][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.20-17.51.15:823][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.02.20-17.51.15:823][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.20-17.51.15:824][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,187ms to complete.
+[2020.02.20-17.51.15:824][  0]LogFileHelpers: Loading map 'Template_Default' took 0.135
+[2020.02.20-17.51.15:917][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-17.51.15:922][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-17.51.15:927][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-17.51.15:933][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-17.51.15:938][  0]LogCollectionManager: Loaded 0 collections in 0.000817 seconds
+[2020.02.20-17.51.15:944][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Collections/' took 0.00s
+[2020.02.20-17.51.15:944][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Content/Developers/vdc/Collections/' took 0.00s
+[2020.02.20-17.51.15:944][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Content/Collections/' took 0.00s
+[2020.02.20-17.51.15:944][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.20-17.51.15:952][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 3046 classes and 767 folders.
+[2020.02.20-17.51.15:956][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.20-17.51.16:005][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.20-17.51.16:008][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.02.20-17.51.16:089][  0]LogSlate: Took 0.000408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.20-17.51.16:091][  0]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.20-17.51.16:096][  0]LogSlate: Took 0.000512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.20-17.51.16:096][  0]LogSlate: Took 0.000434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.02.20-17.51.16:182][  0]LogRenderer: Reallocating scene render targets to support 788x448 Format 10 NumSamples 1 (Frame:1).
+[2020.02.20-17.51.16:239][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.20-17.51.16:239][  0]LogLoad: (Engine Initialization) Total time: 12.76 seconds
+[2020.02.20-17.51.16:239][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.20-17.51.16:292][  0]LogAssetRegistry: Asset discovery search completed in 9.3618 seconds
+[2020.02.20-17.51.16:297][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.02.20-17.51.16:297][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000228 seconds (updated 0 objects)
+[2020.02.20-17.51.16:299][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.20-17.51.23:107][372]LogRenderer: Reallocating scene render targets to support 1968x808 Format 10 NumSamples 1 (Frame:376).
+[2020.02.20-17.51.37:165][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-17.51.37:351][177]LogActorFactory: Actor Factory created Cube
+[2020.02.20-17.51.38:418][240]LogActorFactory: Actor Factory created Cube
+[2020.02.20-17.51.44:645][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-17.51.46:395][714]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.20-17.51.49:512][899]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.20-17.51.49:584][899]LogSlate: Took 0.000491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.20-17.52.08:798][899]Candidate modules for hot reload:
+[2020.02.20-17.52.08:798][899]  BuildingEscape
+[2020.02.20-17.52.08:798][899]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,1918 Win64 Development -TargetType=Editor -Project="C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject" "C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.02.20-17.52.18:306][899]CompilerResultsLog: New page: Compilation - 20.02.2020 19:52:18
+[2020.02.20-17.52.18:306][899]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (.uproject file is newer)
+[2020.02.20-17.52.18:306][899]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.02.20-17.52.18:306][899]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\BuildingEscape.uproject" "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.20-17.52.18:307][899]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5,6717586 seconds
+[2020.02.20-17.52.18:307][899]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.20-17.52.18:307][899]CompilerResultsLog: Building 9 actions with 12 processes...
+[2020.02.20-17.52.18:307][899]CompilerResultsLog:   [1/9] BuildingEscape.cpp
+[2020.02.20-17.52.18:307][899]CompilerResultsLog:   [2/9] BuildingEscape.init.gen.cpp
+[2020.02.20-17.52.18:308][899]CompilerResultsLog:   [3/9] WorldPosition.cpp
+[2020.02.20-17.52.18:308][899]CompilerResultsLog:   [4/9] BuildingEscapeGameModeBase.cpp
+[2020.02.20-17.52.18:308][899]CompilerResultsLog:   [5/9] WorldPosition.gen.cpp
+[2020.02.20-17.52.18:308][899]CompilerResultsLog:   [6/9] BuildingEscapeGameModeBase.gen.cpp
+[2020.02.20-17.52.18:308][899]CompilerResultsLog:   [7/9] UE4Editor-BuildingEscape-1918.lib
+[2020.02.20-17.52.18:308][899]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1918.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1918.exp
+[2020.02.20-17.52.18:309][899]CompilerResultsLog:   [8/9] UE4Editor-BuildingEscape-1918.dll
+[2020.02.20-17.52.18:309][899]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1918.suppressed.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1918.suppressed.exp
+[2020.02.20-17.52.18:309][899]CompilerResultsLog:   [9/9] BuildingEscapeEditor.target
+[2020.02.20-17.52.18:309][899]CompilerResultsLog: Total time in Parallel executor: 1,92 seconds
+[2020.02.20-17.52.18:309][899]CompilerResultsLog: Total execution time: 9,43 seconds
+[2020.02.20-17.52.18:309][899]LogMainFrame: MainFrame: Module compiling took 9.523 seconds
+[2020.02.20-17.52.18:338][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.20-17.52.18:341][899]LogClass: Could not find existing class WorldPosition in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.02.20-17.52.18:343][899]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2020.02.20-17.52.18:346][899]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.20-17.52.18:405][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.02.20-17.52.18:416][899]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3047 classes and 767 folders.
+[2020.02.20-17.52.18:417][899]Display: HotReload took  9.7s.
+[2020.02.20-17.52.18:418][899]Warning: HotReload operation took  9.7s.
+[2020.02.20-17.52.18:847][899]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Source/BuildingEscape/WorldPosition.h'
+[2020.02.20-17.52.18:852][899]LogVSAccessor: Warning: Couldn't open file 'C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/Source/BuildingEscape/WorldPosition.cpp'.
+[2020.02.20-17.52.18:864][899]LogSlate: Window 'Add C++ Component' being destroyed
+[2020.02.20-17.52.18:876][899]LogHotReload: New module detected: UE4Editor-BuildingEscape-1918.dll
+[2020.02.20-17.52.18:889][899]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.20-17.52.18:932][900]LogHotReload: Starting Hot-Reload from IDE
+[2020.02.20-17.52.18:965][900]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1749)].
+[2020.02.20-17.52.19:019][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.02.20-17.52.19:022][900]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2020.02.20-17.52.19:025][900]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.20-17.52.19:058][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.02.20-17.52.19:073][900]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 3047 classes and 767 folders.
+[2020.02.20-17.52.19:084][900]Display: HotReload took  0.2s.
+[2020.02.20-17.53.57:575][263]Candidate modules for hot reload:
+[2020.02.20-17.53.57:575][263]  BuildingEscape
+[2020.02.20-17.53.57:575][263]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,8558 Win64 Development -TargetType=Editor -Project="C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject" "C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.02.20-17.53.57:578][263]Warning: Starting HotReload took  0.0s.
+[2020.02.20-17.54.07:173][838]CompilerResultsLog: New page: Compilation - 20.02.2020 19:54:07
+[2020.02.20-17.54.07:173][838]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.02.20-17.54.07:173][838]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\BuildingEscape.uproject" "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.20-17.54.07:174][838]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 6,4796748 seconds
+[2020.02.20-17.54.07:174][838]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.20-17.54.07:174][838]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.02.20-17.54.07:174][838]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2020.02.20-17.54.07:174][838]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-8558.lib
+[2020.02.20-17.54.07:175][838]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8558.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8558.exp
+[2020.02.20-17.54.07:175][838]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-8558.dll
+[2020.02.20-17.54.07:175][838]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8558.suppressed.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8558.suppressed.exp
+[2020.02.20-17.54.07:175][838]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.02.20-17.54.07:175][838]CompilerResultsLog: Total time in Parallel executor: 1,99 seconds
+[2020.02.20-17.54.07:176][838]CompilerResultsLog: Total execution time: 9,51 seconds
+[2020.02.20-17.54.07:176][838]LogMainFrame: MainFrame: Module compiling took 9.611 seconds
+[2020.02.20-17.54.07:202][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.20-17.54.07:209][838]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2020.02.20-17.54.07:212][838]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.20-17.54.07:269][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.02.20-17.54.07:283][838]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3047 classes and 767 folders.
+[2020.02.20-17.54.07:283][838]Display: HotReload took  9.7s.
+[2020.02.20-17.54.10:335][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-17.54.10:342][ 11]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.20-17.54.10:342][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-17.54.10:342][ 11]PIE: New page: PIE session: Untitled_1 (20.02.2020 19:54:10)
+[2020.02.20-17.54.10:343][ 11]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.20-17.54.10:344][ 11]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.02.20-17.54.10:348][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003209s)
+[2020.02.20-17.54.10:349][ 11]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.20-17.54.10:350][ 11]LogPlayLevel: PIE: World Init took: (0.002019s)
+[2020.02.20-17.54.10:350][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005873s)
+[2020.02.20-17.54.10:376][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.20-17.54.10:427][ 11]LogInit: XAudio2 using 'Kopfhörer (Realtek USB Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.02.20-17.54.10:514][ 11]LogInit: FAudioDevice initialized.
+[2020.02.20-17.54.10:526][ 11]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-17.54.10:528][ 11]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.02.20-18.54.10
+[2020.02.20-17.54.10:528][ 11]LogWorld: Bringing up level for play took: 0.000641
+[2020.02.20-17.54.10:528][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.20-17.54.10:553][ 11]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.02.20-17.54.10:553][ 11]LogTemp: Display: This is a log in grey. So just a hint.
+[2020.02.20-17.54.10:553][ 11]LogTemp: Warning: This is a log in yellow. A warning, which needs some more attention.
+[2020.02.20-17.54.10:553][ 11]LogTemp: Error: This is a log in RED. ERROR, so very IMPORTANT!!!
+[2020.02.20-17.54.10:554][ 11]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0,456
+[2020.02.20-17.54.10:554][ 11]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.20-17.54.19:306][505]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.20-17.54.19:306][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-17.54.19:306][505]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.02.20-17.54.19:307][505]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-17.54.19:318][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-17.54.19:318][505]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.20-17.54.19:354][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-17.54.19:356][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.20-17.54.19:401][508]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.20-17.54.28:583][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.02.20-17.54.44:855][ 55]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.20-17.54.44:893][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.20-17.54.44:893][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildingEscape" FILE="../../../../../../Users/vdc/workspace/unreal/udemy/BuildingEscape/Content/BuildingEscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.20-17.54.44:920][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.02.20-17.54.45:010][ 55]LogSavePackage: Moving '../../../../../../Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/BuildingEscape3FFE3AC14045CEE0E1D288ABA0F5D848.tmp' to '../../../../../../Users/vdc/workspace/unreal/udemy/BuildingEscape/Content/BuildingEscape.umap'
+[2020.02.20-17.54.45:022][ 55]LogFileHelpers: Saving map 'BuildingEscape' took 0.161
+[2020.02.20-17.54.59:634][877]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.20-17.55.15:203][798]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.20-17.55.15:210][798]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.20-17.55.20:915][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildingEscape_BuiltData" FILE="../../../../../../Users/vdc/workspace/unreal/udemy/BuildingEscape/Content/BuildingEscape_BuiltData.uasset" SILENT=true
+[2020.02.20-17.55.20:926][132]LogSavePackage: Moving '../../../../../../Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/BuildingEscape_BuiltData149CEE674EC5D3C1EF9709A98EE1878F.tmp' to '../../../../../../Users/vdc/workspace/unreal/udemy/BuildingEscape/Content/BuildingEscape_BuiltData.uasset'
+[2020.02.20-17.59.19:469][447]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={E8E69547-4A58-1019-1B53-7DACA195E941}
+[2020.02.20-17.59.32:416][568]Candidate modules for hot reload:
+[2020.02.20-17.59.32:416][568]  BuildingEscape
+[2020.02.20-17.59.32:416][568]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,9661 Win64 Development -TargetType=Editor -Project="C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject" "C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.02.20-17.59.32:419][568]Warning: Starting HotReload took  0.0s.
+[2020.02.20-17.59.40:471][669]CompilerResultsLog: New page: Compilation - 20.02.2020 19:59:40
+[2020.02.20-17.59.40:471][669]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.02.20-17.59.40:471][669]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\BuildingEscape.uproject" "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.20-17.59.40:471][669]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5,2158941 seconds
+[2020.02.20-17.59.40:471][669]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.20-17.59.40:472][669]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.02.20-17.59.40:472][669]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2020.02.20-17.59.40:472][669]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-9661.lib
+[2020.02.20-17.59.40:472][669]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9661.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9661.exp
+[2020.02.20-17.59.40:472][669]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-9661.dll
+[2020.02.20-17.59.40:472][669]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9661.suppressed.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9661.suppressed.exp
+[2020.02.20-17.59.40:472][669]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.02.20-17.59.40:472][669]CompilerResultsLog: Total time in Parallel executor: 1,47 seconds
+[2020.02.20-17.59.40:473][669]CompilerResultsLog: Total execution time: 7,74 seconds
+[2020.02.20-17.59.40:473][669]LogMainFrame: MainFrame: Module compiling took 8.067 seconds
+[2020.02.20-17.59.40:497][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.20-17.59.40:503][669]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2020.02.20-17.59.40:505][669]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.20-17.59.40:561][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.02.20-17.59.40:571][669]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 3047 classes and 767 folders.
+[2020.02.20-17.59.40:572][669]Display: HotReload took  8.2s.
+[2020.02.20-17.59.42:804][675]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-17.59.42:811][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-17.59.42:812][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-17.59.42:812][675]PIE: New page: PIE session: BuildingEscape (20.02.2020 19:59:42)
+[2020.02.20-17.59.42:812][675]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.02.20-17.59.42:814][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002062s)
+[2020.02.20-17.59.42:815][675]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.02.20-17.59.42:815][675]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2020.02.20-17.59.42:815][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.003486s)
+[2020.02.20-17.59.42:839][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.20-17.59.42:882][675]LogInit: XAudio2 using 'Kopfhörer (Realtek USB Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.02.20-17.59.42:965][675]LogInit: FAudioDevice initialized.
+[2020.02.20-17.59.42:971][675]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-17.59.42:972][675]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.02.20-18.59.42
+[2020.02.20-17.59.42:972][675]LogWorld: Bringing up level for play took: 0.000579
+[2020.02.20-17.59.42:973][675]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.20-17.59.42:974][675]LogTemp: Warning: Hello!
+[2020.02.20-17.59.42:974][675]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape 0,877
+[2020.02.20-17.59.42:975][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.00.19:774][ 42]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={6209EFCD-4BED-97D9-FD19-F5A88321FEDC}
+[2020.02.20-18.04.55:733][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.04.55:734][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-18.04.55:734][ 86]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BuildingEscape
+[2020.02.20-18.04.55:734][ 86]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-18.04.55:744][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-18.04.55:744][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.04.55:777][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-18.04.55:780][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.20-18.04.55:840][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.20-18.05.11:725][ 23]Candidate modules for hot reload:
+[2020.02.20-18.05.11:726][ 23]  BuildingEscape
+[2020.02.20-18.05.11:726][ 23]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,5005 Win64 Development -TargetType=Editor -Project="C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject" "C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.02.20-18.05.11:729][ 23]Warning: Starting HotReload took  0.0s.
+[2020.02.20-18.05.20:042][516]CompilerResultsLog: New page: Compilation - 20.02.2020 20:05:20
+[2020.02.20-18.05.20:042][516]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.02.20-18.05.20:043][516]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\BuildingEscape.uproject" "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.20-18.05.20:043][516]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5,584254 seconds
+[2020.02.20-18.05.20:043][516]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.20-18.05.20:043][516]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.02.20-18.05.20:043][516]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2020.02.20-18.05.20:043][516]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-5005.lib
+[2020.02.20-18.05.20:043][516]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5005.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5005.exp
+[2020.02.20-18.05.20:044][516]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-5005.dll
+[2020.02.20-18.05.20:044][516]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5005.suppressed.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5005.suppressed.exp
+[2020.02.20-18.05.20:044][516]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.02.20-18.05.20:044][516]CompilerResultsLog: Total time in Parallel executor: 1,73 seconds
+[2020.02.20-18.05.20:044][516]CompilerResultsLog: Total execution time: 8,24 seconds
+[2020.02.20-18.05.20:044][516]LogMainFrame: MainFrame: Module compiling took 8.334 seconds
+[2020.02.20-18.05.20:071][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.02.20-18.05.20:077][516]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.02.20-18.05.20:079][516]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.20-18.05.20:126][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.02.20-18.05.20:137][516]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 3047 classes and 767 folders.
+[2020.02.20-18.05.20:137][516]Display: HotReload took  8.4s.
+[2020.02.20-18.05.22:050][630]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-18.05.22:057][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.05.22:058][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-18.05.22:058][630]PIE: New page: PIE session: BuildingEscape (20.02.2020 20:05:22)
+[2020.02.20-18.05.22:058][630]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.02.20-18.05.22:060][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001914s)
+[2020.02.20-18.05.22:062][630]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.02.20-18.05.22:062][630]LogPlayLevel: PIE: World Init took: (0.001788s)
+[2020.02.20-18.05.22:062][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.004051s)
+[2020.02.20-18.05.22:088][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.20-18.05.22:129][630]LogInit: XAudio2 using 'Kopfhörer (Realtek USB Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.02.20-18.05.22:213][630]LogInit: FAudioDevice initialized.
+[2020.02.20-18.05.22:219][630]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-18.05.22:221][630]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.02.20-19.05.22
+[2020.02.20-18.05.22:221][630]LogWorld: Bringing up level for play took: 0.000628
+[2020.02.20-18.05.22:221][630]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.02.20-18.05.22:223][630]LogTemp: Warning: Hello!
+[2020.02.20-18.05.22:223][630]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape 0,126
+[2020.02.20-18.05.22:224][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.05.25:887][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.05.25:888][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-18.05.25:888][843]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BuildingEscape
+[2020.02.20-18.05.25:888][843]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-18.05.25:897][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-18.05.25:898][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.05.25:932][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-18.05.25:934][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.02.20-18.05.25:978][846]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.20-18.05.38:247][578]LogSlate: Window 'Source Control Login' being destroyed
+[2020.02.20-18.12.58:375][230]Candidate modules for hot reload:
+[2020.02.20-18.12.58:375][230]  BuildingEscape
+[2020.02.20-18.12.58:375][230]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,4350 Win64 Development -TargetType=Editor -Project="C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject" "C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.02.20-18.12.58:379][230]Warning: Starting HotReload took  0.0s.
+[2020.02.20-18.13.06:694][708]CompilerResultsLog: New page: Compilation - 20.02.2020 20:13:06
+[2020.02.20-18.13.06:694][708]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.02.20-18.13.06:694][708]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\BuildingEscape.uproject" "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.20-18.13.06:694][708]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5,5976664 seconds
+[2020.02.20-18.13.06:694][708]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.20-18.13.06:694][708]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.02.20-18.13.06:694][708]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2020.02.20-18.13.06:695][708]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-4350.lib
+[2020.02.20-18.13.06:695][708]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4350.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4350.exp
+[2020.02.20-18.13.06:695][708]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-4350.dll
+[2020.02.20-18.13.06:695][708]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4350.suppressed.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4350.suppressed.exp
+[2020.02.20-18.13.06:696][708]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.02.20-18.13.06:696][708]CompilerResultsLog: Total time in Parallel executor: 1,73 seconds
+[2020.02.20-18.13.06:696][708]CompilerResultsLog: Total execution time: 8,23 seconds
+[2020.02.20-18.13.06:696][708]LogMainFrame: MainFrame: Module compiling took 8.333 seconds
+[2020.02.20-18.13.06:720][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.20-18.13.06:726][708]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.02.20-18.13.06:728][708]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.20-18.13.06:775][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.02.20-18.13.06:786][708]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 3047 classes and 767 folders.
+[2020.02.20-18.13.06:787][708]Display: HotReload took  8.4s.
+[2020.02.20-18.13.20:772][536]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-18.13.20:779][536]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.13.20:780][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-18.13.20:780][536]PIE: New page: PIE session: BuildingEscape (20.02.2020 20:13:20)
+[2020.02.20-18.13.20:780][536]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.02.20-18.13.20:783][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002779s)
+[2020.02.20-18.13.20:785][536]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.02.20-18.13.20:786][536]LogPlayLevel: PIE: World Init took: (0.002906s)
+[2020.02.20-18.13.20:786][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.006060s)
+[2020.02.20-18.13.20:811][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.02.20-18.13.20:854][536]LogInit: XAudio2 using 'Kopfhörer (Realtek USB Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.02.20-18.13.20:938][536]LogInit: FAudioDevice initialized.
+[2020.02.20-18.13.20:947][536]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-18.13.20:948][536]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.02.20-19.13.20
+[2020.02.20-18.13.20:948][536]LogWorld: Bringing up level for play took: 0.000589
+[2020.02.20-18.13.20:948][536]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.02.20-18.13.20:950][536]LogTemp: Warning: This belongs to Cube_2
+[2020.02.20-18.13.20:950][536]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape 0,853
+[2020.02.20-18.13.20:951][536]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.13.38:176][219]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.13.38:177][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-18.13.38:177][219]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BuildingEscape
+[2020.02.20-18.13.38:178][219]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-18.13.38:186][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-18.13.38:186][219]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.13.38:217][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-18.13.38:220][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.20-18.13.38:282][223]LogPlayLevel: Display: Destroying online subsystem :Context_6
