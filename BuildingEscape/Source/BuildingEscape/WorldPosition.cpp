@@ -20,17 +20,13 @@ void UWorldPosition::BeginPlay()
 {
 	Super::BeginPlay();
 	
-	//// Logging Example with intro to Pointer
-	//FString Log = TEXT("Hello!");
-	//FString* PtrLog = &Log;
-
-	//Log.Len();		// Length of Log
-	//PtrLog->Len();	// same
-
-	//UE_LOG(LogTemp, Warning, TEXT("%s"), **PtrLog);	// dereferencing twice
-
+	// get o's name
 	FString Name = GetOwner()->GetName();
-	UE_LOG(LogTemp, Warning, TEXT("This belongs to %s"), *Name);
+
+	// get o's transform
+	FString ObjectPosition = GetOwner()->GetActorLocation().ToString();
+	UE_LOG(LogTemp, Warning, TEXT("%s position in world is: %s"), *Name, *ObjectPosition);
+
 }
 
 

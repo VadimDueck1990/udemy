@@ -984,3 +984,92 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-18.39.56:432][429]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
 [2020.02.20-18.40.03:343][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
 [2020.02.20-18.40.07:443][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-18.57.36:293][369]Candidate modules for hot reload:
+[2020.02.20-18.57.36:293][369]  BuildingEscape
+[2020.02.20-18.57.36:293][369]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,1127 Win64 Development -TargetType=Editor -Project="C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject" "C:/Users/vdc/workspace/unreal/udemy/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.02.20-18.57.36:296][369]Warning: Starting HotReload took  0.0s.
+[2020.02.20-18.57.44:970][885]CompilerResultsLog: New page: Compilation - 20.02.2020 20:57:44
+[2020.02.20-18.57.44:971][885]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\vdc\workspace\unreal\udemy).
+[2020.02.20-18.57.44:971][885]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.02.20-18.57.44:971][885]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\BuildingEscape.uproject" "C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.20-18.57.44:971][885]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5,7934236 seconds
+[2020.02.20-18.57.44:971][885]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.20-18.57.44:972][885]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.02.20-18.57.44:972][885]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2020.02.20-18.57.44:972][885]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-1127.lib
+[2020.02.20-18.57.44:972][885]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1127.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1127.exp
+[2020.02.20-18.57.44:972][885]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-1127.dll
+[2020.02.20-18.57.44:972][885]CompilerResultsLog:      Creating library C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1127.suppressed.lib and object C:\Users\vdc\workspace\unreal\udemy\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1127.suppressed.exp
+[2020.02.20-18.57.44:973][885]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.02.20-18.57.44:973][885]CompilerResultsLog: Total time in Parallel executor: 1,80 seconds
+[2020.02.20-18.57.44:973][885]CompilerResultsLog: Total execution time: 8,60 seconds
+[2020.02.20-18.57.44:973][885]LogMainFrame: MainFrame: Module compiling took 8.692 seconds
+[2020.02.20-18.57.45:000][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.20-18.57.45:006][885]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.02.20-18.57.45:008][885]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.20-18.57.45:055][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.02.20-18.57.45:066][885]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3047 classes and 767 folders.
+[2020.02.20-18.57.45:066][885]Display: HotReload took  8.8s.
+[2020.02.20-18.57.47:422][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-18.57.47:429][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.57.47:429][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-18.57.47:429][ 22]PIE: New page: PIE session: BuildingEscape (20.02.2020 20:57:47)
+[2020.02.20-18.57.47:429][ 22]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.02.20-18.57.47:432][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002141s)
+[2020.02.20-18.57.47:433][ 22]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.02.20-18.57.47:434][ 22]LogPlayLevel: PIE: World Init took: (0.001993s)
+[2020.02.20-18.57.47:434][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.004537s)
+[2020.02.20-18.57.47:459][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.02.20-18.57.47:501][ 22]LogInit: XAudio2 using 'Kopfhörer (Realtek USB Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.02.20-18.57.47:585][ 22]LogInit: FAudioDevice initialized.
+[2020.02.20-18.57.47:589][ 22]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-18.57.47:591][ 22]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.02.20-19.57.47
+[2020.02.20-18.57.47:591][ 22]LogWorld: Bringing up level for play took: 0.000627
+[2020.02.20-18.57.47:591][ 22]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.02.20-18.57.47:593][ 22]LogTemp: Warning: Cube_2 position in world is: X=100.000 Y=250.000 Z=20.000
+[2020.02.20-18.57.47:593][ 22]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape -0,504
+[2020.02.20-18.57.47:593][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.58.28:622][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.58.28:623][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-18.58.28:623][874]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BuildingEscape
+[2020.02.20-18.58.28:623][874]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-18.58.28:641][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-18.58.28:641][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.58.28:674][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-18.58.28:676][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.20-18.58.28:749][878]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.20-18.58.31:330][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.20-18.58.34:207][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-18.59.01:169][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-18.59.01:218][797]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-18.59.01:225][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.59.01:225][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-18.59.01:225][797]PIE: New page: PIE session: BuildingEscape (20.02.2020 20:59:01)
+[2020.02.20-18.59.01:225][797]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.02.20-18.59.01:228][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002613s)
+[2020.02.20-18.59.01:229][797]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.02.20-18.59.01:229][797]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2020.02.20-18.59.01:229][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.004162s)
+[2020.02.20-18.59.01:254][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.20-18.59.01:297][797]LogInit: XAudio2 using 'Kopfhörer (Realtek USB Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.02.20-18.59.01:381][797]LogInit: FAudioDevice initialized.
+[2020.02.20-18.59.01:391][797]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-18.59.01:392][797]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.02.20-19.59.01
+[2020.02.20-18.59.01:392][797]LogWorld: Bringing up level for play took: 0.000598
+[2020.02.20-18.59.01:392][797]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.02.20-18.59.01:394][797]LogTemp: Warning: Cube_2 position in world is: X=100.000 Y=410.000 Z=20.000
+[2020.02.20-18.59.01:395][797]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape -0,703
+[2020.02.20-18.59.01:395][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.59.03:615][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.59.03:616][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-18.59.03:616][924]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BuildingEscape
+[2020.02.20-18.59.03:616][924]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-18.59.03:624][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-18.59.03:624][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.02.20-18.59.03:657][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-18.59.03:660][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.02.20-18.59.03:716][928]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.20-18.59.56:714][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.02.20-18.59.56:802][100]LogSavePackage: Moving '../../../../../../Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/BuildingEscape_Auto104878FAA488E2C1A97F39AB49DDA7241.tmp' to '../../../../../../Users/vdc/workspace/unreal/udemy/BuildingEscape/Saved/Autosaves/Game/BuildingEscape_Auto1.umap'
+[2020.02.20-18.59.56:805][100]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BuildingEscape' took 0.115
+[2020.02.20-18.59.56:805][100]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.115
