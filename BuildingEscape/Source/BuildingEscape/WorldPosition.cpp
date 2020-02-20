@@ -30,9 +30,7 @@ void UWorldPosition::BeginPlay()
 	//UE_LOG(LogTemp, Warning, TEXT("%s"), **PtrLog);	// dereferencing twice
 
 	FString Name = GetOwner()->GetName();
-	FString* PtrName = &Name;
-
-	UE_LOG(LogTemp, Warning, TEXT("This belongs to %s"), **PtrName);
+	UE_LOG(LogTemp, Warning, TEXT("This belongs to %s"), *Name);
 }
 
 
